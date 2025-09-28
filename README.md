@@ -75,5 +75,3 @@ Example endpoints (to be expanded):
 * **Tasks** stored in MongoDB collection
 * **Execution logs** stored as embedded documents within tasks
 
-
-This project is licensed under the [MIT License](LICENSE).
